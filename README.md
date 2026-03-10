@@ -1,4 +1,4 @@
-# This project show an very lean example of a custom Red Hat Developer Hub dynamic plugin
+# Example of a custom Red Hat Developer Hub dynamic plugin
 
 Build and deployment setup:
 
