@@ -1,0 +1,12 @@
+dynamicPlugins:
+  frontend:
+    first-rhdh-plugin-test:
+      appIcons:
+        - name: chatIcon
+          importName: ChatIcon
+      dynamicRoutes:
+        - path: /first-rhdh-plugin-test
+          importName: HelloWorldPage
+          menuItem:
+            text: 'Hello World'
+            icon: chatIcon

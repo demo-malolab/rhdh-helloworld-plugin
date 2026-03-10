@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+#Yarn plug-n-play
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/
+
+# TypeScript (tsc) output
+/dist
+/dist-types
+
+# Dynamic Plugin output
+/dist-dynamic
